@@ -1,0 +1,15 @@
+#root{
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #B8860B;
+}
+
+p{
+  color: #555;
+}
+
